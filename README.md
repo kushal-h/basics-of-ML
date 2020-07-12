@@ -1,2 +1,2 @@
 # basics-of-ML
-code on python
+Code on python.
